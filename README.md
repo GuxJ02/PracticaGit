@@ -1,2 +1,2 @@
 # PracticaGit
-Directorio de integración de software
+Directorio de integración de software.
